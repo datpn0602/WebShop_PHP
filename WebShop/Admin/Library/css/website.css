@@ -1,0 +1,19 @@
+/*header css*/
+* { color:#906}
+.header-1st-line {
+		background-color:#CCC;
+		line-height:20px;
+		font-weight:bold;
+		padding-top:5px;
+		font-size:15px;
+		color:#906}
+.pull-right {margin-right:80px;
+			color:#906;
+			text-decoration:none}
+.container {
+	width: 990px
+}
+
+.table {
+	width: 90%
+}
